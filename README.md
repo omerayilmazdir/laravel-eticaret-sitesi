@@ -1,4 +1,4 @@
-# laravel-eticaret
+# LARAVEL İLE TEKNOLOJİK ÜRÜNLER SATIŞ SİTESİ | E-TİCARET SİTESİ
 Web sitesinin barındırdığı hizmetler;
 
 - Dinamik bir sayfa yapısı. Ana sayfa kısmında değiştirilebilir süresi ayarlanabilir indirimli ürünler kısmı; Admin panelinden düzenlenebilir, yeni ürünler eklenebilir ve indirimin süresi belirlenebilir. Kategorize edilmiş son eklenen ve en çok ziyaret edilen ürünler kısmı. 
