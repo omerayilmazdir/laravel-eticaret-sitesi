@@ -22,4 +22,4 @@ Web sitesinin barındırdığı hizmetler;
 - Şifre değiştir; şifre değiştirmeyi sağlar.
 - Favoriler; önceden favorilenmiş ürünlerin bulunduğu kısımdır.
 
-Detaylı bilgi ve ekran görüntüleri için **Rapor.pdf** dosyasını okuyunuz.
+Detaylı bilgi ve ekran görüntüleri için [**Rapor.pdf**](https://github.com/omerayilmazdir/laravel-eticaret-sitesi/blob/main/Rapor.pdf) dosyasını okuyunuz.
